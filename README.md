@@ -13,7 +13,7 @@ I am creating a React and Rails App that uses Poetry DB API to help users to sea
 - Post MVP Features allow users to add, edit, and delete their own poems
 
 ## This is the Rails back-end repo. 
-For more information on the front-end repo, please visit: https://git.generalassemb.ly/darasy/project4client
+For more information on the front-end repo, please visit: https://github.com/Dara-Sy/poetryappclient/
 
 ## User Story: 
 - I am a poet enthusiast. I love searching up poetry by William Shakespeare and Edgar Allan Poe. Sometimes, I feel like my searches on Google get diluted by irrelevant results. I want to use an app that can filter my search and focus on poetry.
@@ -21,7 +21,7 @@ For more information on the front-end repo, please visit: https://git.generalass
 
 ## Wireframe:
 
-![1](https://git.generalassemb.ly/darasy/project4/blob/master/attachments%20(1)/IMG_0189.jpg)
+![1](https://github.com/Dara-Sy/poetryapp/blob/master/attachments%20(1)/IMG_0189.jpg)
 ![1](https://git.generalassemb.ly/darasy/project4/blob/master/attachments%20(1)/IMG_0190.jpg)
 
 
