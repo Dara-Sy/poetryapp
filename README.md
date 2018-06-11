@@ -1,21 +1,23 @@
 # Poetry Book - Project 4 
 
-
 ## Project Name: Poetry Book
 
 ## Description: 
 
-I am creating a React and Rails Full CRUD App that uses Poetry DB API to help users to track, search, and favorite poems all around. Searches can be filtered by author.
+I am creating a React and Rails App that uses Poetry DB API to help users to search poems all around. Searches can be filtered by author.
 
-- CRUD App List Builder
+- App List Builder
 - Database that lists poems 
 - Users can search, save, and add to the list of poems to favorites
 - Users can search up poems by author
 - Post MVP Features allow users to add, edit, and delete their own poems
 
+## This is the Rails back-end repo. 
+For more information on the front-end repo, please visit: https://git.generalassemb.ly/darasy/project4client
+
 ## User Story: 
-(1) I am a poet enthusiast. I love searching up poetry by William Shakespeare and Edgar Allan Poe. Sometimes, I feel like my searches on Google get diluted by irrelevant results. I want to use an app that can filter my search and focus on poetry.
-(2) I am an English major in uni. I write poetry regularly for my literature class. Sometimes, I get the writer's block and need inspiration. Is there an app that can help me search and favorite poems by famous authors?
+- I am a poet enthusiast. I love searching up poetry by William Shakespeare and Edgar Allan Poe. Sometimes, I feel like my searches on Google get diluted by irrelevant results. I want to use an app that can filter my search and focus on poetry.
+- I am an English major in uni. I write poetry regularly for my literature class. Sometimes, I get the writer's block and need inspiration. Is there an app that can help me search and favorite poems by famous authors?
 
 ## Wireframe:
 
@@ -54,12 +56,12 @@ https://docs.google.com/spreadsheets/d/1WF7INkftVj8aJb9qW3Iv24x1fNPOHCvOS7Um5rxo
 - Go into this repo
 - Fork and Git Clone
 - Go into the Terminal Command Line
-- npm i 
-- npm init 
-- npm dev
+- cd poetryapp
 - subl . 
-- npm run dev
-- psql -f db/schema.sql
+- rails s (http://localhost:3001/poems)
+- command + t 
+- cd project4client
+- npm start (runs http://localhost:3000/poems)
 
 
 
