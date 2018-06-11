@@ -22,21 +22,21 @@ For more information on the front-end repo, please visit: https://github.com/Dar
 ## Wireframe:
 
 ![1](https://github.com/Dara-Sy/poetryapp/blob/master/attachments%20(1)/IMG_0189.jpg)
-![1](https://git.generalassemb.ly/darasy/project4/blob/master/attachments%20(1)/IMG_0190.jpg)
+![1](https://github.com/Dara-Sy/poetryappclient/blob/master/attachments%20(1)/IMG_0190.jpg)
 
 
 ## Piority Matrix:
 
-![1](https://git.generalassemb.ly/darasy/project4/blob/master/attachments%20(1)/IMG_0191.jpg)
+![1](https://github.com/Dara-Sy/poetryappclient/blob/master/attachments%20(1)/IMG_0191.jpg)
 
 ## ERD:
 
-![1](https://git.generalassemb.ly/darasy/project4/blob/master/attachments%20(1)/IMG_0197.jpg)
+![1](https://github.com/Dara-Sy/poetryappclient/blob/master/attachments%20(1)/IMG_0197.jpg)
 
 
 ## React Tree: 
 
-![1](https://git.generalassemb.ly/darasy/project4/blob/master/attachments%20(1)/IMG_0194.jpg)
+![1](https://github.com/Dara-Sy/poetryappclient/blob/master/attachments%20(1)/IMG_0194.jpg)
 
 ## Routes Chart
 
